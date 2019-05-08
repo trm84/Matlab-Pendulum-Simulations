@@ -1,6 +1,4 @@
 # Matlab-Pendulum-Simulations
-Author: Tyler Matthews
-
 Double and single pendulum simulations using the runge kutta method.
 
 To run the single pendulum simulation, the pendulum.m and rkCalculator.m files need to be in the same directory.
